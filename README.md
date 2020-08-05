@@ -1,4 +1,3 @@
-[![GoDoc Widget]][Beta V 0.1] 
 
 ## This is Beta Version
 
@@ -9,7 +8,7 @@
 
 ```
 git clone https://github.com/yoyoraso/Terraform_GUI.git
-cd terraform
+cd Terraform_GUI/terraform
 bash Terraform_GUI
 ```
 
